@@ -26,7 +26,6 @@ Senior Backend Developer with 7+ years building high-load systems, distributed s
 
 ### Around the web
 
-- 📨 Telegram channel on backend development — *[https://t.me/the_backend_journal]*
 - 🌍 Based in Cyprus · working across CIS & international markets
 
 ---
