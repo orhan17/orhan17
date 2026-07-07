@@ -1,4 +1,4 @@
-# Hi, I'm Orhan 👋
+# Hi, I'm Orhan
 
 Senior Backend Developer with 7+ years building high-load systems, distributed services, and clean architectures. I care about correctness, resilience, and code that's easy to reason about.
 
